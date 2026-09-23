@@ -1,0 +1,17 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Output assets generated locally (keep images tracked explicitly)
+*.log
+*.tmp
