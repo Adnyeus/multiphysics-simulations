@@ -7,7 +7,7 @@
 
 ## 📖 Overview
 
-This repository contains numerical and device-level multiphysics simulations developed.
+This repository contains numerical and device-level multiphysics simulations.
 
 The suite spans three core domains:
 - **Atmospheric Water Harvesting (AWH):** Coupled mass and heat transfer ODEs modeling sorbent bed adsorption/desorption kinetics.
@@ -116,7 +116,7 @@ multiphysics-simulations/
 
 3. Execute simulation modules directly:
    ```bash
-   python -m src.mosfet_2d_dibl_simulationa
+   python -m src.mosfet_2d_dibl_simulation
 
 ## 📝 Author
 Ebad Naeem
